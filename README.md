@@ -1,6 +1,5 @@
 # Project Universe
 
-This project is a universe database that contains information about galaxies, stars, planets, and moons.
 This project is a practice of a universe database that contains information about galaxies, stars, planets, and moons.
 
 ## Tables
@@ -36,11 +35,11 @@ The database was created using PostgreSQL 12.9. Make sure you have PostgreSQL in
 4. Update the database connection configuration in the project configuration file if necessary.
 5. Run the project and enjoy exploring the universe information.
 Enjoy the project!
+
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 # Proyecto Universo
 
-Este proyecto es una base de datos de universo que contiene información sobre galaxias, estrellas, planetas y lunas.
 Este proyecto es una practica de una base de datos de universo que contiene información sobre galaxias, estrellas, planetas y lunas.
 
 ## Tablas
